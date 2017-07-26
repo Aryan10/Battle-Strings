@@ -8,4 +8,4 @@ Special Thanks to Bulbapedia for GBA Character encoding.
 
 If you want to use it in your hack, insert New Code somewhere in free space and replace the pointers with the offset(where you inserted new code) in reverse hex.
 
-Be sure to credit me(Aryan 10) and the other people involved in this project ^_^
+Be sure to credit the other people involved in this project.
