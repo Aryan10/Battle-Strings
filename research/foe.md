@@ -1,0 +1,24 @@
+###Old Text
+Foe
+
+###New Text
+The opposing
+
+###New Code
+CE DC D9 00 E3 E4 E4 E3 E7 DD E2 DB 00 FF
+
+FireRed Pointers: 0x14EB28, 0x14EC9C, 0x14ED38, 0x14EDD4, 0x14EE70, 0x14EF0C, 0x14F390, 0x14F784
+
+Emerald Pointers: 0x14EB28, 0x14EC9C, 0x14ED38, 0x14EDD4, 0x14EE70, 0x14EF0C, 0x14F390, 0x14F784
+
+Ruby Pointers: ? *Not researched yet*
+
+Extra Byte Changes (FireRed):
+0x3FC3BD: FE
+0x3FC059: FE
+0x3FC05D: 00
+
+Extra Byte Changes (Emerald):
+0x5CAC2D: FE
+0x5CA8C9: FE 
+0x5CA8CD: 00
