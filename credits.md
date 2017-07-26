@@ -1,7 +1,5 @@
 This is a list of people that helped me in this research in some way.
-
-Be sure to credit me(Aryan 10) if used.
-You can also give credits to people in this list. Because this was not possible without them.
+Be sure to credit if used.
 
 Bulbapedia
 • GBA Character Encoding
