@@ -1,6 +1,7 @@
 This is a list of people that helped me in this research in some way.
 Be sure to credit if used.
 
+### Credits List
 Bulbapedia
 • GBA Character Encoding
 
