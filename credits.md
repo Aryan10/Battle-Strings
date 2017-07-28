@@ -3,9 +3,11 @@ Be sure to credit if used.
 
 ### Credits List
 Bulbapedia
+
 • GBA Character Encoding
 
 Aryan 10
+
 • Project Owner
 • Wild-Pre-Battle.md (FireRed)
 • Run.md (FireRed)
@@ -14,6 +16,7 @@ Aryan 10
 • Some Buffer Data
 
 Rahul
+
 • Ruby Research
 • Wild-Pre-Battle.md (Emerald)
 • Wild.md Text (Emerald)
@@ -21,17 +24,21 @@ Rahul
 • Some Ruby Buffer Data
 
 Draconian Wings & Sky High
+
 • Pre-Battle.md (FireRed, Emerald)
 • Post-Battle.md (FireRed, Emerald)
 • Switch-In.md (FireRed, Emerald)
 
 Draconian Wings
+
 • Foe.md (FireRed, Emerald)
 • Emerald Extra Byte Changes(Foe.md)
 • Some Buffer Data
 
 BlackWhiteRobin
+
 • FireRed Extra Byte Changes(Foe.md)
 
 KDS
+
 • Some Buffer Data
