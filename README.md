@@ -1,15 +1,28 @@
 # Battle-Strings
-A research on the battle strings of Ruby, FireRed &amp; Emerald.
+A project to change the in-game battle text to match Generation 7.
 
-This is a research in which I am working on.
-My main goal is to change all the battle text to match Generation 7.
+If you know any other text change, then you can inform us, 
+You can also contribute codes and pointers, you will get credit for this.
 
-This project is usable for FireRed & Emerlad. And it's also started for Ruby.
-Please contribute with any text offset, buffer or text changes done in Gen 7. Your contribution will be added and you will be credited for it.
 
-### Instructions
-If you want to use it in your hack, insert New Code somewhere in free space and replace the pointers with the offset(where you inserted new code) in reverse hex.
 
 ### Credits
-Special Thanks to Bulbapedia for GBA Character encoding.
-Be sure to credit the other people involved in this project. All of those people are listed in *credits.md*
+Special Thanks to [Bulbapedia](http://bulbapedia.bulbagarden.net/) for GBA Character Encoding.
+
+All other people are listed in [credits.md](https://github.com/Aryan10/Battle-Strings/blob/master/credits.md)
+
+
+
+### How to use?
+Follow these steps to use it in your hack.
+
+##### Requirments
+• A Hex Editor
+• A rom (Ruby, FireRed or Emerald)
+
+##### Steps
+• Open the md file in [research folder](https://github.com/Aryan10/Battle-Strings/tree/master/research). And opwn your hex editor.
+
+• Insert the **New Code** somewhere in free space. (It's same for all Roms)
+
+• Now at all your rom pointers, insert your offset(where you inserted new code) in reverse hex.
