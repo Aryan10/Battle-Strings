@@ -14,4 +14,4 @@ FireRed Pointers: 0xD776C, 0x3FE410
 
 Emerald Pointers: 0x14E66C, 0x5CC744
 
-Ruby Pointers: 0x401461
+Ruby Pointers: 0x401460
