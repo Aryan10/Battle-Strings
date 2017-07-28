@@ -3,7 +3,7 @@ The ? after effect means it's not confirmed yet!
 
 The buffers seems to be changed in Ruby & FireRed, Emerald. So two categories here.
 
-###FireRed & Emerald Buffers
+### FireRed & Emerald Buffers
 
 FD01: Opponent's about to switch Pokemon
 
@@ -24,7 +24,7 @@ FD1D: Opponent Trainer Name
 FD23: Player's Name
 
 
-###Ruby Buffers
+### Ruby Buffers
 
 FD01: Opponent's about to switch Pokemon?
 
