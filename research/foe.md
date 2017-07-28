@@ -17,12 +17,8 @@ Ruby Pointers: ? *Not researched yet*
 
 ### Extra Byte Changes
 
-Extra Byte Changes (FireRed):
-0x3FC3BD: FE
-0x3FC059: FE
-0x3FC05D: 00
+##### Extra Byte Changes (FireRed):
+0x3FC3BD: FE & 0x3FC059: FE & 0x3FC05D: 00
 
-Extra Byte Changes (Emerald):
-0x5CAC2D: FE
-0x5CA8C9: FE 
-0x5CA8CD: 00
+##### Extra Byte Changes (Emerald):
+0x5CAC2D: FE & 0x5CA8C9: FE & 0x5CA8CD: 00
