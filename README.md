@@ -22,7 +22,7 @@ Follow these steps to use it in your hack.
 • A rom (Ruby, FireRed or Emerald)
 
 ##### Steps
-• Open the md file in [research folder](https://github.com/Aryan10/Battle-Strings/tree/master/research). And open your hex editor.
+• Open the md file you want to use, all are in [research folder](https://github.com/Aryan10/Battle-Strings/tree/master/research). And open your hex editor.
 
 • Insert the **New Code** somewhere in free space. (It's same for all Roms)
 
