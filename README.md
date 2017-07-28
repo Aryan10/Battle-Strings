@@ -27,3 +27,9 @@ Follow these steps to use it in your hack.
 • Insert the **New Code** somewhere in free space. (It's same for all Roms)
 
 • Now at all your rom pointers, insert your offset(where you inserted new code) in reverse hex.
+
+
+###### Note
+You will see **Extra Byte Changes** in [foe.md](https://github.com/Aryan10/Battle-Strings/blob/master/research/foe.md), it's actually some more byte changes required, it's basically fixes some text that goes out of screen _(because `The opposing` is way too bigger than `Foe`)_
+
+The fixed messages are the battle text of **Ingrain** & **Curse(Ghost)**.
