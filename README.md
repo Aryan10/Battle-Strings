@@ -17,7 +17,8 @@ All other people are listed in [credits.md](https://github.com/Aryan10/Battle-St
 Follow these steps to use it in your hack.
 
 ##### Requirments
-• A Hex Editor
+• A Hex Editor 
+
 • A rom (Ruby, FireRed or Emerald)
 
 ##### Steps
