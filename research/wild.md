@@ -1,12 +1,13 @@
-###Old Text
+### Old Text
 Wild
 
-###New Text
+### New Text
 The wild
 
-###New Code
+### New Code
 CE DC D9 00 EB DD E0 D8 00 FF
 
+### Pointers
 FireRed Pointers: 0xD7B78, 0xD7CA0, 0xD7D14, 0xD7D88, 0xD7DFC, 0xD7E70, 0xD82BC, 0xD8584
 
 Emerald Pointers: 0x14EB24, 0x14EC98, 0x14ED34, 0x14EDD0, 0x14EE6C, 0x14EF08, 0x14F38C, 0x14F7B4
