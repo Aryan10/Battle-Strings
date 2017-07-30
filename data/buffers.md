@@ -35,6 +35,12 @@ FD06: Player's current Pokemon in battle
 FD0C: Attacker
 
 FD0D: Defender
+ 
+FD11: Move used
+ 
+FD14: Player Pokemon's Ability
+ 
+FD16: Opponent Pokemon's Ability
 
 FD19: Opponent Trainer Class
 
