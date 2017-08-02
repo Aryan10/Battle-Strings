@@ -4,9 +4,11 @@ What will <pokemon> do?
 ### New Text
 <pokemon> is awaiting <player>'s direction...
 
-### New Code
-FF *Not researched yet*
+### New Code (FireRed and Emerald)
+*Not researched yet*
 
+### New Code (Ruby)
+*Not researched yet*
 ### Pointers
 FireRed Pointers: 0x32C40, 0xEA76C, 0x158BD4, 
 
