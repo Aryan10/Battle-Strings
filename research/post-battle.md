@@ -6,8 +6,11 @@ Player defeated
 You defeated 
 [trainer]!
 
-### New Code
+### New Code (FireRed & Emerald)
 D3 E3 E9 00 D8 D9 DA D9 D5 E8 D9 D8 FE FD 1C 00 FD 1D AB FB FF
+
+### New Code (Ruby)
+D3 E3 E9 00 D8 D9 DA D9 D5 E8 D9 D8 FE FD 19 00 FD 1A AB FB FF
 
 ### Pointers
 FireRed Pointers: 0xD776C, 0x3FE410
