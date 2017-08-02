@@ -4,7 +4,10 @@ Wild
 ### New Text
 The wild
 
-### New Code
+### New Code (FireRed & Emerald)
+CE DC D9 00 EB DD E0 D8 00 FF
+
+### New Code (Ruby)
 CE DC D9 00 EB DD E0 D8 00 FF
 
 ### Pointers
