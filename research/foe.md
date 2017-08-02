@@ -4,7 +4,7 @@ Foe
 ### New Text
 The opposing
 
-### New Code (FireRed and Emerald)
+### New Code (FireRed & Emerald)
 CE DC D9 00 E3 E4 E4 E3 E7 DD E2 DB 00 FF
 
 ### New Code (Ruby)
