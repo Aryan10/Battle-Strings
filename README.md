@@ -24,7 +24,7 @@ Follow these steps to use it in your hack.
 ##### Steps
 • Open the md file you want to use, all are in [research folder](https://github.com/Aryan10/Battle-Strings/tree/master/research). And open your hex editor.
 
-• Insert the **New Code** somewhere in free space. (It's same for all Roms)
+• Insert the **New Code** somewhere in free space. It's same for FireRed & Emerald, diffrent for Ruby.
 
 • Now at all your rom pointers, insert your offset(where you inserted new code) in reverse hex.
 
