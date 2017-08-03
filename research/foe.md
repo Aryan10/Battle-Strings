@@ -25,3 +25,6 @@ Ruby Pointers: 0x1212D8, 0x121400, 0x121474, 0x1214E8, 0x12155C, 0x1215DC, 0x121
 
 ##### Extra Byte Changes (Emerald):
 0x5CAC2D: FE & 0x5CA8C9: FE & 0x5CA8CD: 00
+
+##### Extra Byte Changes (Ruby):
+0x3FF660: FE
