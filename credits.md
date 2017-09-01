@@ -16,8 +16,6 @@ Be sure to credit if used.
 
 • Attack-miss.md (FireRed)
 
-• Select-option.md (FireRed)
-
 • Some Buffer Data
 
 ##### Appspace.Rahul
