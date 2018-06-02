@@ -20,11 +20,20 @@ Ruby Pointers: 0x1212D8, 0x121400, 0x121474, 0x1214E8, 0x12155C, 0x1215DC, 0x121
 
 ### Extra Byte Changes
 
+These extra byte changes are required for texts of moves that go out of the textbox.\
+*TODO: Skill Swap fix for FireRed and Ruby(maybe?)*
+
 ##### Extra Byte Changes (FireRed):
-0x3FC3BD: FE & 0x3FC059: FE & 0x3FC05D: 00
+0x3FC3BD: FE (Ingrain)\
+0x3FC059: FE (Ingrain)\
+0x3FC05D: 00 (Curse)
 
 ##### Extra Byte Changes (Emerald):
-0x5CAC2D: FE & 0x5CA8C9: FE & 0x5CA8CD: 00
+0x5CAC2D: FE (Ingrain)\
+0x5CA8C9: FE (Ingrain)\
+0x5CA8CD: 00 (Curse)\
+0x5CACB3: FE (Skill Swap)\
+0x5CACBD: 00 (Skill Swap)
 
 ##### Extra Byte Changes (Ruby):
 0x3FF660: FE
